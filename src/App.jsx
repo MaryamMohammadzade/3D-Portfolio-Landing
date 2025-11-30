@@ -19,7 +19,7 @@ export default function App() {
          <img className="absolute top-0 right-0 opacity-60 -z-10 " src="/gradient.png" alt=""/>
     
       {/* Blur Effect */}
-         <div className="h-0 w-[40rem] absolute top-[20%] right-[-5%] rotate-[-80deg]  sm:rotate-[-60deg]  shadow-[0_0_900px_40px_#e99b63] -z-10"></div>
+         <div className="h-0 w-[40rem] absolute top-[20%]  sm:right-[-5%] rotate-[-90deg]  sm:rotate-[-60deg]  shadow-[0_0_900px_40px_#e99b63] -z-10"></div>
    
           <Header />
           <Hero />
