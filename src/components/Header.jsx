@@ -48,11 +48,11 @@ const Header = () => {
         {/* Mobile Mwnu */}  
            <div id="mobileMenu" className="hidden fixed top-16 bottom-0 right-0 left-0 p-5 md:hidden bg-black bg-opacity-70 backdrop-blur-md z-50"> 
             <nav className="flex flex-col gap-6 items-center">
-                <a className="text-base tracking-wider transition-colors hover:text-gray-300 z-50" href="#">COMPANY</a>
+                <a className="text-base tracking-wider transition-colors hover:text-gray-300 z-50" href="#">ABOUT</a>
             
-                <a className="text-base tracking-wider transition-colors hover:text-gray-300 z-50" href="#">FEATURES</a>
+                <a className="text-base tracking-wider transition-colors hover:text-gray-300 z-50" href="#">SKILLS</a>
             
-                <a className="text-base tracking-wider transition-colors hover:text-gray-300 z-50" href="#">RESOURCES</a>
+                <a className="text-base tracking-wider transition-colors hover:text-gray-300 z-50" href="#">PROJECTS</a>
             </nav>
            </div>
     </header>
